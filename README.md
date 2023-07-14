@@ -31,9 +31,7 @@
   <br>
 </div>
 
-
-
-
+<br>
 
 ## 💻 DEV's log 💻
 <div style="display:flex; flex-direction:row; margin-bottom: 15px; ">
@@ -42,10 +40,8 @@
     </a>
 </div><br>
 
+<br>
 
-
-
- 
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row; margin-bottom: 15px;">
     <a href="https://www.instagram.com/yenniinnii/">
