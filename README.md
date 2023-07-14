@@ -8,6 +8,8 @@
 [![Yeeun GitHub stats](https://github-readme-stats.vercel.app/api?username=yeeun&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/yeeun/github-readme-stats)
  
 <br>
+
+
 ## 🔨 Once I've used 🔨
 <div style="display:flex; flex-direction:row;">
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
@@ -36,6 +38,7 @@
     <br>
 </div><br>
 </div>
+
 
 ## 💻 DEV's log 💻
 <div style="display:flex; flex-direction:row;">
