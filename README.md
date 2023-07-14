@@ -1,7 +1,6 @@
 <div align="left">
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Yeeun's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
----
 
 <div><h1>📚 STACKS</h1></div>
 
@@ -32,12 +31,20 @@
   <br>
 </div>
 
+
+
+
+
 ## 💻 DEV's log 💻
 <div style="display:flex; flex-direction:row; margin-bottom: '20px';">
     <a href="https://gda05024.tistory.com">
         <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
     </a>
 </div><br>
+
+
+
+
  
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
