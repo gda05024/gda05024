@@ -14,8 +14,7 @@
     <a href="https:/gda05024.tistory.com">
         <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
     </a>
-  
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=gda05024r&theme=default)](https://gda05024.tistory.com)
+  [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=gda05024r&theme=default)](https://gda05024.tistory.com)
 </div><br>
 
  
