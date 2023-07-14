@@ -40,6 +40,7 @@
  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Subversion&logoColor=white" />
  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Subversion&logoColor=white" />
  <img src="https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=Subversion&logoColor=white" />
+ <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Subversion&logoColor=white" />
  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Subversion&logoColor=white" />
 <br>
 </div>
