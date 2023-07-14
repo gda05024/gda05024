@@ -15,7 +15,7 @@
         <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
     </a>
  
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=gda05024&theme=default)](https://gda05024.tistory.com)
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name={gda05024}&postId={insert_postId})](https://github.com/loosie/github-readme-tistory-card)
 </div><br>
  
 ## 📞 Contact 📞
