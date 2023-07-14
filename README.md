@@ -45,7 +45,7 @@
 
 ## 💻 DEV's log 💻
 <div style="display:flex; flex-direction:row; margin-bottom: 15px; ">
-    <a href="https://gda05024.tistory.com">
+    <a href="https://velog.io/@gda05024">
         <img src="https://img.shields.io/badge/Velog-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
     </a>
   
