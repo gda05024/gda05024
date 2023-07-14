@@ -49,7 +49,7 @@
         <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
     </a>
   
-  [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=gda05024&theme=default)](https://gda05024.tistory.com)
+   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=gda05024&color=dark)](https://velog.io/@gda05024)
 </div><br>
 
 <br>
