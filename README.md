@@ -8,26 +8,6 @@
 [![Yeeun GitHub stats](https://github-readme-stats.vercel.app/api?username=yeeun&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/yeeun/github-readme-stats)
  
 <br>
-
-## 💻 DEV's log 💻
-<div style="display:flex; flex-direction:row;">
-    <a href="https://gda05024.tistory.com">
-        <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
-    </a>
-
- [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=gda05024&theme=default)](https://gda05024.tistory.com)
-</div><br>
- 
-## 📞 Contact 📞
-<div style="display:flex; flex-direction:row;">
-    <a href="https://www.instagram.com/yenniinnii/">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
-    </a>
-    <a href="mailto:gda05026@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
-    </a>
-</div><br>
-    
 ## 🔨 Once I've used 🔨
 <div style="display:flex; flex-direction:row;">
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
@@ -56,3 +36,23 @@
     <br>
 </div><br>
 </div>
+
+## 💻 DEV's log 💻
+<div style="display:flex; flex-direction:row;">
+    <a href="https://gda05024.tistory.com">
+        <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
+    </a>
+
+ // [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=gda05024&theme=default)](https://gda05024.tistory.com)
+</div><br>
+ 
+## 📞 Contact 📞
+<div style="display:flex; flex-direction:row;">
+    <a href="https://www.instagram.com/yenniinnii/">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
+    </a>
+    <a href="mailto:gda05026@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
+    </a>
+</div><br>
+    
