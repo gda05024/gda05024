@@ -5,7 +5,7 @@
 <div><h1>📚 STACKS</h1></div>
 
 
-<div style='margin-top: "20px";'> 
+<div style = "margin-bottom: 15px;"> 
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
@@ -36,7 +36,7 @@
 
 
 ## 💻 DEV's log 💻
-<div style="display:flex; flex-direction:row; margin-bottom: '20px';">
+<div style="display:flex; flex-direction:row; margin-bottom: 15px; ">
     <a href="https://gda05024.tistory.com">
         <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
     </a>
@@ -47,7 +47,7 @@
 
  
 ## 📞 Contact 📞
-<div style="display:flex; flex-direction:row;">
+<div style="display:flex; flex-direction:row; margin-bottom: 15px;">
     <a href="https://www.instagram.com/yenniinnii/">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
     </a>
