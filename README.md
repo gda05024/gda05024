@@ -34,10 +34,13 @@
 <div>
  <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white" />
  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
- <br>
  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AmazonAWS&logoColor=white" />
- <img src="https://img.shields.io/badge/SVN-809CC9?style=flat&logo=Subversion&logoColor=white" />
  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
+ <br>
+ <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Subversion&logoColor=white" />
+ <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Subversion&logoColor=white" />
+ <img src="https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=Subversion&logoColor=white" />
+ <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Subversion&logoColor=white" />
 <br>
 </div>
 
