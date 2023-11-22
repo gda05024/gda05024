@@ -53,7 +53,7 @@
         <img src="https://img.shields.io/badge/Velog-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
     </a>
   
-   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=gda05024&color=dark)](https://velog.io/@gda05024)
+   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=gda05024)](https://velog.io/@gda05024/velog-readme-stats)
 </div><br>
 
 <br>
