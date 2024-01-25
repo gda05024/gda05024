@@ -47,7 +47,7 @@
 
 <br>
 
-## 💻 DEV's log 💻
+//## 💻 DEV's log 💻
 <div style="display:flex; flex-direction:row; margin-bottom: 15px; ">
     <a href="https://velog.io/@gda05024">
         <img src="https://img.shields.io/badge/Velog-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
@@ -56,7 +56,7 @@
    [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=gda05024)](https://velog.io/@gda05024/)
 </div><br>
 
-<br>
+//<br>
 
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row; margin-bottom: 15px;">
