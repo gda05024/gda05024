@@ -71,16 +71,7 @@
  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Subversion&logoColor=white" />
  <img alt="Static Badge" src="https://img.shields.io/badge/vercel-%23000000?style=flat&logo=vercel">
  <img alt="Static Badge" src="https://img.shields.io/badge/cursor-black?style=flat&logo=curseforge">
-<br>
 </div>
-
-<a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/gda05024"
-  width="600"
-  height="300"
-/>
-</a>
 
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row; margin-bottom: 15px;">
@@ -91,4 +82,12 @@
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
     </a>
 </div><br>
+
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/gda05024"
+  width="600"
+  height="300"
+/>
+</a>
 
