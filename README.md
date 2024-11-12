@@ -74,8 +74,6 @@
 <br>
 </div>
 
-<br>
-
 <a href="https://github.com/devxb/gitanimals">
 <img
   src="https://render.gitanimals.org/farms/gda05024"
