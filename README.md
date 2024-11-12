@@ -1,6 +1,7 @@
 <div align="left">
 
-<h1>Hi there !!</h1>
+<h2>Hi there! 👋🏻 <h2/>
+<p>Passionate frontend developer crafting seamless, intuitive, and accessible web experiences. Driven by a love for clean code, top-notch performance, and user-centered design.</p>
 
 <div><h2>📚 STACKS</h2></div>
 
@@ -13,10 +14,12 @@
 
   <img alt="Static Badge" src="https://img.shields.io/badge/zustand-%23fff?style=for-the-badge">
   <img alt="Static Badge" src="https://img.shields.io/badge/xstate-%232C3E50?style=for-the-badge&logo=xstate">
+  <img alt="Static Badge" src="https://img.shields.io/badge/reacthookform-%23EC5990?style=for-the-badge">
   <br>
   
   <img alt="Static Badge" src="https://img.shields.io/badge/GraphQL-%23E10098?style=for-the-badge&logo=graphql">
   <img alt="Static Badge" src="https://img.shields.io/badge/Apollo%20graphql-%23311C87?style=for-the-badge&logo=apollographql">
+  <img alt="Static Badge" src="https://img.shields.io/badge/reactquery-%23FF4154?style=for-the-badge">
 
   <br>
   <img alt="Static Badge" src="https://img.shields.io/badge/Storybook-%23FF4785?style=for-the-badge">
@@ -42,6 +45,13 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/Mui-%23007FFF?style=for-the-badge">
   <img alt="Static Badge" src="https://img.shields.io/badge/pandacss-yellow?style=for-the-badge&logo=foodpanda">
   <br>
+
+  <img alt="Static Badge" src="https://img.shields.io/badge/tiptap-gray?style=for-the-badge">
+  <img alt="Static Badge" src="https://img.shields.io/badge/lingui-red?style=for-the-badge">
+  <img alt="Static Badge" src="https://img.shields.io/badge/uppy-%23blue?style=for-the-badge">
+  <img alt="Static Badge" src="https://img.shields.io/badge/media-captions-green?style=for-the-badge">
+  <img alt="Static Badge" src="https://img.shields.io/badge/prosemirror-%23fff?style=for-the-badge">
+  
 </div>
 
 <br>
@@ -59,6 +69,7 @@
  <img src="https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=Subversion&logoColor=white" />
  <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Subversion&logoColor=white" />
  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Subversion&logoColor=white" />
+ <img alt="Static Badge" src="https://img.shields.io/badge/vercel-%23000000?style=for-the-badge&logo=vercel">
  <img alt="Static Badge" src="https://img.shields.io/badge/cursor-black?style=flat&logo=curseforge">
 <br>
 </div>
