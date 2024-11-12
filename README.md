@@ -2,6 +2,14 @@
   
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&text=Welcome%20to%20Yeeun's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=150)
 
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/gda05024"
+  width="600"
+  height="300"
+/>
+</a>
+
 <div><h1>📚 STACKS</h1></div>
 
 
