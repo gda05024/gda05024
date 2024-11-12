@@ -69,7 +69,7 @@
  <img src="https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=Subversion&logoColor=white" />
  <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Subversion&logoColor=white" />
  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Subversion&logoColor=white" />
- <img alt="Static Badge" src="https://img.shields.io/badge/vercel-%23000000?style=for-the-badge&logo=vercel">
+ <img alt="Static Badge" src="https://img.shields.io/badge/vercel-%23000000?style=flat&logo=vercel">
  <img alt="Static Badge" src="https://img.shields.io/badge/cursor-black?style=flat&logo=curseforge">
 <br>
 </div>
