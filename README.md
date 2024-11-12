@@ -1,13 +1,5 @@
 <div align="left">
 
-<a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/gda05024"
-  width="600"
-  height="300"
-/>
-</a>
-
 <div><h1>📚 STACKS</h1></div>
 
 
@@ -52,6 +44,13 @@
 
 <br>
 
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/gda05024"
+  width="600"
+  height="300"
+/>
+</a>
 
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row; margin-bottom: 15px;">
