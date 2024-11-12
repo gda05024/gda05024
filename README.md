@@ -1,6 +1,8 @@
 <div align="left">
 
-<div><h1>📚 STACKS</h1></div>
+<h1>Hi there !!</h1>
+
+<div><h2>📚 STACKS</h2></div>
 
 
 <div style = "margin-bottom: 15px;"> 
@@ -26,7 +28,7 @@
 
 <br>
 
-<div><h1>🛠 Tools 🛠</h1></div>
+<div><h2>🛠 Tools 🛠</h2></div>
 
 <div>
  <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white" />
