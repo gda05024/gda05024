@@ -6,23 +6,41 @@
 
 
 <div style = "margin-bottom: 15px;"> 
-  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
-  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
+  
+  <img alt="Static Badge" src="https://img.shields.io/badge/Rushrepo-orange?style=for-the-badge">
+  <img alt="Static Badge" src="https://img.shields.io/badge/turborepo-%23EF4444?style=for-the-badge">
+  <br>
+
+  <img alt="Static Badge" src="https://img.shields.io/badge/zustand-%23fff?style=for-the-badge">
+  <img alt="Static Badge" src="https://img.shields.io/badge/xstate-%232C3E50?style=for-the-badge&logo=xstate">
+  <br>
+  
+  <img alt="Static Badge" src="https://img.shields.io/badge/GraphQL-%23E10098?style=for-the-badge&logo=graphql">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Apollo%20graphql-%23311C87?style=for-the-badge&logo=apollographql">
+
+  <br>
+  <img alt="Static Badge" src="https://img.shields.io/badge/Storybook-%23FF4785?style=for-the-badge">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Chromatic-%23FC521F?style=for-the-badge">
+  
+  <br>
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=jquery&logoColor=white">
   <br>
-  
+
   <img src="https://img.shields.io/badge/next.js-white?style=for-the-badge&logo=react&logoColor=black"> 
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
   <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"> 
   <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=Node.js&logoColor=white">
+
   <br>
-  
-  <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
+
   <img src="https://img.shields.io/badge/styled-components-DB7093?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img src="https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Emotion-purple?style=for-the-badge">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Mui-%23007FFF?style=for-the-badge">
+  <img alt="Static Badge" src="https://img.shields.io/badge/pandacss-yellow?style=for-the-badge&logo=foodpanda">
   <br>
 </div>
 
@@ -41,6 +59,7 @@
  <img src="https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=Subversion&logoColor=white" />
  <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Subversion&logoColor=white" />
  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Subversion&logoColor=white" />
+ <img alt="Static Badge" src="https://img.shields.io/badge/cursor-black?style=flat&logo=curseforge">
 <br>
 </div>
 
